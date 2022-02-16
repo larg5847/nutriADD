@@ -1,0 +1,92 @@
+[
+    {
+        "titulo":"Sobrepeso y Obesidad",
+        "descripcion":"",
+        "tratamiento":"La forma de tratar la obesidad es reducir el consumo de energía y aumentar su gasto. El consumo de energía se puede disminuir si se reduce el tamaño de las raciones en cada comida; el gasto de energía se puede aumentar, al elevar la cantidad de ejercicio que se hace",
+        "recomendaciones": [
+            "Preferir el consumo de agua natural y líquidos sin calorías en lugar de refrescos,  jugos y bebidas azucaradas",
+            "Preferir el consumo de carnes magras (sin grasa), como pollo sin piel  y pescado, huevo, claras de huevo y quesos bajos en grasa como cottage, panela, requesón, fresco y blanco",
+            "Preferir grasas saludables como aguacate, almendras, nueces, y  aceites vegetales como de canola, soya, oliva",
+            "Apegarse a las raciones establecidas por el nutriólogo o nutriologa",
+            "Moderar el consumo de sal MENOR A 5g al día",
+            "Evitar el  consumo de alcohol y tabaco",
+            "Realizar algún tipo de ejercicio, mínimo 30 minutos al día (caminar, correr, bailar, zumba, aerobics, ejercicios de fuerza, rutinas completas específicas a una parte del cuerpo, etc)"
+        ],
+        "relacion":"La obesidad grave se asocia a el aumento del riesgo de enfermedades como diabetes, hipertensión, eclampsia durante el embarazo, problemas ortopédicos, enfermedades del corazón, desórdenes hormonales etc. La obesidad se ha asociado con un aumento de la mortalidad y una menor calidad de vida"
+    },
+    {
+        "titulo":"Hipertension",
+        "descripcion":"",
+        "tratamiento":"La disminución del consumo de sodio (sal), reducción de grasa industrializadas, aumento de ejercicio, y consumo de fibra,  así como la disminución del propio peso,  contribuirá al descenso de la presión arterial",
+        "recomendaciones": [
+            "Preferir el consumo de carnes magras (sin grasa), como pollo sin piel  y pescado, huevo, claras de huevo y quesos bajos en grasa como cottage, panela, requesón, fresco y blanco",
+            "Optar por el consumo de frutas y verduras frescas, si es posible, cruda y/o  con cáscara",
+            "Moderar el consumo de sal <5g al día",
+            "Moderar el consumo de alimentos procesados  y enlatados",
+            "Evitar el  consumo de alcohol y tabaco",
+            "Realizar algún tipo de ejercicio, mínimo 30 minutos al día (caminar, correr, bailar, zumba, aerobics, ejercicios de fuerza, rutinas completas específicas a una parte del cuerpo, etc)",
+            "Preferir: Alimentos lácteos descremados (bajos en grasa = light) Jamón de pavo, atún en agua (máximo 2 veces a la semana)"
+        ],
+        "relacion":"La presión arterial alta (>140/90 mmHg) se asocia  con el desarrollo de las enfermedades cardiovasculares y cerebrovasculares (insuficiencia cardíaca, arritmias, enfermedades de las válvulas cardíacas, un accidente cerebrovascular, cardiopatía congénita)"
+    },
+    {
+        "titulo":"Diabetes",
+        "descripcion":"",
+        "tratamiento":"La reducción del peso corporal puede contribuir al control de la glucosa, en cuanto a la dieta un control en el consumo de carbohidratos o un bajo consumo de estos es el principal factor para el control El retirar de la dieta el consumo habitual de alimentos altos en azúcares ayudará a tener un mejor control en nuestras cifras de glucosa. Aumentar el consumo de fibra (cereales integrales, verduras y frutas con cáscara) reducirá la absorción de estos azúcares. La actividad física también ayuda al control de la glucosa ya que es utilizada para generar la energía para realizar dicha actividad",
+        "recomendaciones": [
+            "Respetar los horarios de comida",
+            "Hacer 3 comidas fuertes y 2 colaciones (preferentemente)",
+            "Evitar ayunos prolongados (más de 6 horas)",
+            "Preferir el consumo de agua natural y líquidos sin calorías en lugar de refrescos,  jugos y bebidas azucaradas",
+            "Optar por el consumo de frutas y verduras frescas, si es posible, cruda y/o  con cáscara",
+            "Apegarse a las raciones establecidas por el nutriólogo o nutriologa",
+            "Moderar el consumo de alimentos procesados  y enlatados",
+            "Evitar el  consumo de alcohol y tabaco",
+            "Realizar algún tipo de ejercicio, mínimo 30 minutos al día (caminar, correr, bailar, zumba, aerobics, ejercicios de fuerza, rutinas completas específicas a una parte del cuerpo, etc)"
+        ],
+        "relacion":"La diabetes mellitus es un desorden metabólico crónico en el que los niveles de glucosa en sangre son altos debido a una carencia o disminución en la efectividad de la insulina. La enfermedad es controlable más no es curable, y puede llevar a una variedad de complicaciones, algunas de ellas graves"
+    },
+    {
+        "titulo":"Dislipidemia",
+        "descripcion":"",
+        "tratamiento":"El tratamiento se basa en reducir el consumo de azúcares simples y grasas saturadas, optando más por grasas saludables como el aguacate, aceite vegetal, cacahuates, almendras y nueces, si la persona padece obesidad, una reducción del peso corporal también contribuye en la reducción de las cifras de colesterol y triglicéridos, así como el consumo de alimentos altos en fibra ",
+        "recomendaciones": [
+            "Preferir el consumo de agua natural y líquidos sin calorías en lugar de refrescos,  jugos y bebidas azucaradas",
+            "Preferir el consumo de carnes magras (sin grasa), como pollo sin piel  y pescado, huevo, claras de huevo y quesos bajos en grasa como cottage, panela, requesón, fresco y blanco",
+            "Preferir grasas saludables como aguacate, almendras, nueces, y  aceites vegetales como de canola, soya, oliva",
+            "Apegarse a las raciones establecidas por el nutriólogo o nutriologa",
+            "Evitar el  consumo de alcohol y tabaco",
+            "Moderar el consumo de alimentos procesados  y enlatados",
+            "Realizar algún tipo de ejercicio, mínimo 30 minutos al día (caminar, correr, bailar, zumba, aerobics, ejercicios de fuerza, rutinas completas específicas a una parte del cuerpo, etc)",
+            "Preferir: Alimentos cocidos, al vapor, a la parrilla, empapelados. Alimentos integrales. Alimentos lácteos descremados (bajos en grasa = light)"
+        ],
+        "relacion":"La dislipidemia es una alteración de las concentraciones de grasas en sangre, caracterizada por un aumento de los niveles de colesterol (hipercolesterolemia) o de los niveles de triglicéridos (hipertrigliceridemia) o una disminución de los niveles de colesterol HDL (considerando colesterol saludable)"
+    },
+    {
+        "titulo":"Renal",
+        "descripcion":"",
+        "tratamiento":"En esta enfermedad la alimentación es muy individualizada dependiendo de las característica, complicaciones, cifras de laboratorio y función renal del paciente, en general el tratamiento pretende conservar la función renal y el estado nutricional del paciente para evitar complicaciones, cuidando el consumo de proteínas, grasas, azúcares, sodio, fósforo y potasio de la dieta así como las deficiencias de nutrientes que se tengan.",
+        "recomendaciones": [
+            "Reducir el consumo de alimentos altos en sodio, potasio y fósforo",
+            "Reducir el consumo de alimentos ricos en proteína (alimentos de origen animal, leguminosas y lácteos), la cantidad será determinada por el nutriólogo",
+            "Eliminar de la dieta alimentos procesados/enlatados/industrializados",
+            "Se recomienda el  método de doble remojo en la cocción de las leguminosas: Frijoles, lentejas, habas, garbanzos, alubias, soya. 1.-Remojar las leguminosas con abundante agua un día antes, por 12 horas y tirar agua de remojo 2.-Poner a hervir y cuando suelte el primer hervor eliminar el agua 3.-Nuevamente poner a hervir y cocinar para poderlas consumir",
+            "Eliminar de la dieta embutidos, tocino, carnes ahumadas, sazonadores como knorr suiza, y cualquier alimento que en su etiqueta marque “ALTO CONTENIDO DE SODIO”",
+            "Recibir sol por al menos 15 minutos al día, usando protector solar",
+            "Eliminar de la dieta refrescos o bebidas azucaradas",
+            "Condimentar alimentos con especias y hierbas aromáticas para evitar usar sal (laurel, ajo en polvo, albahaca, comino, hierbabuena seca)",
+            "Beber agua en función de la cantidad que el nutriologo o nutriologa determine (contabilizando caldos, sopas, etc)",
+            "Preferir leche/yogurt descremada/light o semidescremada",
+            "De preferencia cocinar las frutas o consumirlas en almíbar (eliminando su jugo) ",
+            "En caso de consumir alimentos enlatados poner en remojo durante 2-3 horas y eliminar agua"
+        ],
+        "relacion":"La dislipidemia es una alteración de las concentraciones de grasas en sangre, caracterizada por un aumento de los niveles de colesterol (hipercolesterolemia) o de los niveles de triglicéridos (hipertrigliceridemia) o una disminución de los niveles de colesterol HDL (considerando colesterol saludable)"
+    }
+]
+
+
+
+
+
+
+

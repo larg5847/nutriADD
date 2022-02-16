@@ -1,0 +1,57 @@
+
+
+figure img {
+    width: 100%;
+    height: auto;
+  }
+  
+  figure {
+    margin-bottom: 30px;
+  }
+
+.jumbotron {
+    display: flex;
+    align-items: center;
+    height: 350px;
+    background-image: url("../../../assets/imgs/apples.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+
+  .jumbotron h2 {
+    background-color: #FFFFFF;
+    display: inline-block;
+    color: #F06529;
+    font-weight: 700;
+    padding: 10px 35px;
+    border-radius: 5px;
+  }
+  
+  .jumbotron h3 {
+    color: #FFFFFF;
+    font-weight: bold;
+  }
+
+  .col-sm-4 p {
+    margin: 25px 20px 15px;
+    min-width: 60px;
+    min-height: 60px;
+    padding: 1px;
+  }
+
+  .containeruno
+  {
+    width: 100%;
+    max-height: auto;
+    
+  }
+
+  .texto1
+  {
+    padding: 10px 5px 5px 5px;
+    text-align: center;
+  }
+
+  .seaccion2{
+    background-color: cadetblue;
+  }

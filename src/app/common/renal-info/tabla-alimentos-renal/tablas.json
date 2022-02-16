@@ -1,0 +1,677 @@
+[
+    {
+        "nombreTabla" : "Verduras BAJAS en potasio",
+        "raciones" : [
+            {
+                "nombre" : "Betabel",
+                "cantidad" : "1/4 pieza"
+            },
+            {
+                "nombre" : "Cebolla cocida",
+                "cantidad" : "1/4 pieza"
+            },
+            {
+                "nombre" : "Chayote cocido picado",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Chícharo cocido",
+                "cantidad" : "1/5 taza"
+            },
+            {
+                "nombre" : "Coliflor cocida",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Ejotes cocidos picados",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Jícama",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Zanahoria mini cruda",
+                "cantidad" : "3 piezas"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Frutas BAJAS en potasio",
+        "raciones" : [
+            {
+                "nombre" : "Arándano",
+                "cantidad" : "125 gramos"
+            },
+            {
+                "nombre" : "Blueberries",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Mango ataúlfo",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Mango en almíbar",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Manzana",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Manzana cocida",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Manzana roja ",
+                "cantidad" : "3/4 pieza"
+            },
+            {
+                "nombre" : "Manzana verde",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Pera",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Piña picada",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Piña rebanada",
+                "cantidad" : "1 rebanada"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Verduras MODERADAS en potasio",
+        "raciones" : [
+            {
+                "nombre" : "Berenjena picada cocida",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Jitomate verde",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Pepino con cascara rebanado",
+                "cantidad" : "1 1/4 taza"
+            },
+            {
+                "nombre" : "Zanahora rallada cruda",
+                "cantidad" : "1/2 cuhcaradas"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Frutas MODERADAS en potasio",
+        "raciones" : [
+            {
+                "nombre" : "Cereza",
+                "cantidad" : "20 piezas"
+            },
+            {
+                "nombre" : "Frambuesa",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Lichis",
+                "cantidad" : "12 piezas"
+            },
+            {
+                "nombre" : "Mamey",
+                "cantidad" : "1/3 pieza"
+            },
+            {
+                "nombre" : "Mandarina",
+                "cantidad" : "2 piezas"
+            },
+            {
+                "nombre" : "Mango petacón",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Moras",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Pasas",
+                "cantidad" : "10 piezas"
+            },
+            {
+                "nombre" : "Plátano",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Plátano macho",
+                "cantidad" : "1/4 piezas"
+            },
+            {
+                "nombre" : "Sandía picada",
+                "cantidad" : "1 tazas"
+            },
+            {
+                "nombre" : "Sandía rebanada",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Uva",
+                "cantidad" : "18 piezas"
+            },
+            {
+                "nombre" : "Zarzamora",
+                "cantidad" : "3/4 taza"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Verduras ALTAS en potasio",
+        "raciones" : [
+            {
+                "nombre" : "Acelga picada cocida",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "APio",
+                "cantidad" : "1 1/2 taza"
+            },
+            {
+                "nombre" : "Calabaza de castilla cocida",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Champiñón ",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Espinaca cocida",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Jitomate",
+                "cantidad" : "120 gramos"
+            },
+            {
+                "nombre" : "Lechuga",
+                "cantidad" : "3 tazas"
+            },
+            {
+                "nombre" : "Nopal cocido",
+                "cantidad" : "1 taza"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Frutas ALTAS en potasio",
+        "raciones" : [
+            {
+                "nombre" : "Durazno amarillo",
+                "cantidad" : "2 piezas"
+            },
+            {
+                "nombre" : "Fresa",
+                "cantidad" : "17 piezas"
+            },
+            {
+                "nombre" : "Guayaba",
+                "cantidad" : "3 piezas"
+            },
+            {
+                "nombre" : "Kiwi",
+                "cantidad" : "1 1/2 piezas"
+            },
+            {
+                "nombre" : "Mango manila",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Melón",
+                "cantidad" : "1/3 pieza"
+            },
+            {
+                "nombre" : "Papaya picada",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Naranja",
+                "cantidad" : "2 piezas"
+            },
+            {
+                "nombre" : "Plátano deshidratado",
+                "cantidad" : "1/4 taza"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Leguminosas ALTAS en potasio",
+        "raciones" : [
+            {
+                "nombre" : "Alubia cocida",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Haba cocida",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Frijol",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Garbanzo",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Lenteja",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Soya",
+                "cantidad" : "1/3 taza"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Cereales BAJOS en sodio",
+        "raciones" : [
+            {
+                "nombre" : "Amaranto",
+                "cantidad" : "1/4 taza"
+            },
+            {
+                "nombre" : "Arroz",
+                "cantidad" : "1/4 taza"
+            },
+            {
+                "nombre" : "Avena cocida",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Bagel",
+                "cantidad" : "1/3 pieza"
+            },
+            {
+                "nombre" : "Baguette",
+                "cantidad" : "1/7 pieza"
+            },
+            {
+                "nombre" : "Bolillo",
+                "cantidad" : "1/3 pieza"
+            },
+            {
+                "nombre" : "Camote cocido",
+                "cantidad" : "1/4 taza"
+            },
+            {
+                "nombre" : "Elote",
+                "cantidad" : "1 1/2 pieza"
+            },
+            {
+                "nombre" : "Espaghetti cocido",
+                "cantidad" : "1/3 taza"
+            },
+            {
+                "nombre" : "Fideo",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Granola",
+                "cantidad" : "3 cucharadas"
+            },
+            {
+                "nombre" : "Harina de arroz",
+                "cantidad" : "2 cucharadas"
+            },
+            {
+                "nombre" : "Hojuelas de avena",
+                "cantidad" : "1/3 taza"
+            },
+            {
+                "nombre" : "Papa",
+                "cantidad" : "3/4 pieza"
+            },
+            {
+                "nombre" : "Pasta cocida",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Tortlla de maíz",
+                "cantidad" : "1 pieza"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Alimentos de origen animal BAJOS en sodio",
+        "raciones" : [
+            {
+                "nombre" : "Bistec",
+                "cantidad" : "30 gramos"
+            },
+            {
+                "nombre" : "Carne molida de pollo",
+                "cantidad" : "33 gramos"
+            },
+            {
+                "nombre" : "Chamberete",
+                "cantidad" : "35 gramos"
+            },
+            {
+                "nombre" : "Clara de huevo",
+                "cantidad" : "2 piezas"
+            },
+            {
+                "nombre" : "Filete de pescado",
+                "cantidad" : "40 gramos"
+            },
+            {
+                "nombre" : "Milanesa de pollo",
+                "cantidad" : "30 gramos"
+            },
+            {
+                "nombre" : "Pechuga de pollo",
+                "cantidad" : "25 gramos"
+            },
+            {
+                "nombre" : "Carne de res",
+                "cantidad" : "30 gramos"
+            },
+            {
+                "nombre" : "Lomo de cerdo",
+                "cantidad" : "40 gramos"
+            },
+            {
+                "nombre" : "Molida de res",
+                "cantidad" : "30 gramos"
+            },
+            {
+                "nombre" : "Pescado blanco",
+                "cantidad" : "30 gramos"
+            },
+            {
+                "nombre" : "Queso panela",
+                "cantidad" : "40 gramos"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Frutas ALTAS en fósforo",
+        "raciones" : [
+            {
+                "nombre" : "Ciruela",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Fresa",
+                "cantidad" : "17 piezas"
+            },
+            {
+                "nombre" : "Frambuesa",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Granada",
+                "cantidad" : "2 piezas"
+            },
+            {
+                "nombre" : "Mango",
+                "cantidad" : "1 1/2 piezas"
+            },
+            {
+                "nombre" : "Piña",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Sandía",
+                "cantidad" : "1 taza"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Verduras ALTAS en fósforo",
+        "raciones" : [
+            {
+                "nombre" : "Calabacita",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Jitomate",
+                "cantidad" : "120 gramos"
+            },
+            {
+                "nombre" : "Pepino",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Rábano",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Zanahoria",
+                "cantidad" : "1/2 taza"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Leguminosas ALTAS en fósforo",
+        "raciones" : [
+            {
+                "nombre" : "Frijol",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Garbanzo",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Lenteja",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Soya",
+                "cantidad" : "1/3 taza"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Cereales ALTOS en fósforo",
+        "raciones" : [
+            {
+                "nombre" : "Avena cocida",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Avena instantánea",
+                "cantidad" : "2 cucharadas"
+            },
+            {
+                "nombre" : "Avena integral",
+                "cantidad" : "1/3 taza"
+            },
+            {
+                "nombre" : "Hojuelas de avena",
+                "cantidad" : "1/3 taza"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Alimentos de origen animal ALTOS en fósforo",
+        "raciones" : [
+            {
+                "nombre" : "Pescado",
+                "cantidad" : "30 gramos"
+            },
+            {
+                "nombre" : "Hígado de pollo",
+                "cantidad" : "30 gramos"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "NO PERMITIDOS",
+        "raciones" : [
+            {
+                "nombre" : "Sesos",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Visceras",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Grasa visible en carne",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Lácteos enteros",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Postres con leche entera o grasa vegetal",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Piel de pollo",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Quesos grasosos",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Manteca",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Mantequilla",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Crema",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Mayonesa",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Chorizo",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Tocino",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Chicharrón",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Jugos naturales de fruta o industriales",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Agua de frutas",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Licuados",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Bebidas energizantes",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Refrescos",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Bebidas azucaradas y deportivas",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Azúcar de mesa o miel",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Cajeta",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Mermelada",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Catsup",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Helados con azúcar",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Pan dulce, Galletas, Pasteles",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Enlatados",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Carnes frías",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Botanas saladas.",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Mariscos",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Consomé en polvo o cubo.",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Galletas saladas",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Sopas instantáneas",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Pan de caja",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Sazonadores",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Aceitunas",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Bebidas con electrolitos",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Refrescos",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Café",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Agua mineral",
+                "cantidad" : "ninguna"
+            }
+        ]
+    }
+]

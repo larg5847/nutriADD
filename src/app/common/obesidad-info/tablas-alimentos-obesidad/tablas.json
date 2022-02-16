@@ -1,0 +1,710 @@
+[
+    {
+        "nombreTabla" : "Verduras",
+        "raciones" : [
+            {
+                "nombre" : "Acelga",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Apio",
+                "cantidad" : "1 1/2 pieza"
+            },
+            {
+                "nombre" : "Betabel crudo",
+                "cantidad" : "1/4 taza"
+            },
+            {
+                "nombre" : "Brócoli cocido",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Calabacita",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Cebolla",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Cebolla cambray",
+                "cantidad" : "3 piezas"
+            },
+            {
+                "nombre" : "Champiñón",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Chayote",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Chile Jalapeño",
+                "cantidad" : "6 piezas"
+            },
+            {
+                "nombre" : "Repollo",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Coliflor",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Ejote",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Espinaca",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Germen de alfalfa",
+                "cantidad" : "3 tazas"
+            },
+            {
+                "nombre" : "Jícama",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Jitomate",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Jitomate cherry",
+                "cantidad" : "4 piezas"
+            },
+            {
+                "nombre" : "Nopal",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Pepino",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Pimiento",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Zanahoria",
+                "cantidad" : "1/2 taza"
+            }
+        ]
+    },
+
+    {
+        "nombreTabla" : "Cereales",
+        "raciones" : [
+            {
+                "nombre" : "Amaranto tostado",
+                "cantidad" : "1/4 taza"
+            },
+            {
+                "nombre" : "Arroz cocido",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Arroz integral",
+                "cantidad" : "1/3 taza"
+            },
+            {
+                "nombre" : "Avena cocida",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Avena en hojuelas",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Baguette",
+                "cantidad" : "1/7 pieza"
+            },
+            {
+                "nombre" : "Barra 'special K'",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Bolillo",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Bollo de hamburguesa",
+                "cantidad" : "1/3 pieza"
+            },
+            {
+                "nombre" : "Camote",
+                "cantidad" : "1/3 taza"
+            },
+            {
+                "nombre" : "Cereal de arroz / cereal sin azúcar",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Cereal integral",
+                "cantidad" : "1/3 taza"
+            },
+            {
+                "nombre" : "Crepa",
+                "cantidad" : "2 piezas"
+            },
+            {
+                "nombre" : "Croutons",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Elote",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Espaghetti",
+                "cantidad" : "1/3 taza"
+            },
+            {
+                "nombre" : "Fécula de maíz",
+                "cantidad" : "2 cucharadas"
+            },
+            {
+                "nombre" : "Fideo",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Galletas tipo maría",
+                "cantidad" : "5 piezas"
+            },
+            {
+                "nombre" : "Galletas saladas",
+                "cantidad" : "4 piezas"
+            },
+            {
+                "nombre" : "Galleta tipo habanera",
+                "cantidad" : "4 piezas"
+            },
+            {
+                "nombre" : "Granola",
+                "cantidad" : "3 cucharadass"
+            },
+            {
+                "nombre" : "Harina",
+                "cantidad" : "2 1/2 cucharadas"
+            },
+            {
+                "nombre" : "Maíz pozolero",
+                "cantidad" : "1/3 taza"
+            },
+            {
+                "nombre" : "Palomitas naturales",
+                "cantidad" : "2 1/2 taza"
+            },
+            {
+                "nombre" : "Pan de caja",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Pan tostado",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Papa cocida",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Pasta de letras / estrella / municion / lagrima",
+                "cantidad" : "1/4 taza"
+            },
+            {
+                "nombre" : "Tortilla de maíz",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Tostadas horneadas",
+                "cantidad" : "2 piezas"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Productos de origen animal",
+        "raciones" : [
+            {
+                "nombre" : "'Activia bebible'",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Leche descremada",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Leche de soya",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Leche descremada en polvo",
+                "cantidad" : "4 cuhcaradas"
+            },
+            {
+                "nombre" : "Leche evaporada light",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Yogurth light",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Lata de atún",
+                "cantidad" : "1/3 lata"
+            },
+            {
+                "nombre" : "Bistec",
+                "cantidad" : "30 gramos"
+            },
+            {
+                "nombre" : "Camarón pacotilla",
+                "cantidad" : "6 piezas"
+            },
+            {
+                "nombre" : "Molida de pollo",
+                "cantidad" : "30 gramos"
+            },
+            {
+                "nombre" : "Cecina",
+                "cantidad" : "25 gramos"
+            },
+            {
+                "nombre" : "Chamberete",
+                "cantidad" : "35 gramos"
+            },
+            {
+                "nombre" : "Clara de huevo",
+                "cantidad" : "2 piezas"
+            },
+            {
+                "nombre" : "Filete de mojarra",
+                "cantidad" : "40 gramos"
+            },
+            {
+                "nombre" : "Huachinango",
+                "cantidad" : "70 gramos"
+            },
+            {
+                "nombre" : "Milanesa de pollo",
+                "cantidad" : "30 gramos"
+            },
+            {
+                "nombre" : "Pechuga de pavo",
+                "cantidad" : "1 1/2 rebanada"
+            },
+            {
+                "nombre" : "Queso cottage",
+                "cantidad" : "50 gramos"
+            },
+            {
+                "nombre" : "Huevo",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Queso parmesano",
+                "cantidad" : "3 1/2 taza"
+            },
+            {
+                "nombre" : "Salchicha de pavo",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Queso americano light",
+                "cantidad" : "1 rebanada"
+            },
+            {
+                "nombre" : "Carne de res",
+                "cantidad" : "30 gramos"
+            },
+            {
+                "nombre" : "Carne de cerdo",
+                "cantidad" : "40 gramos"
+            },
+            {
+                "nombre" : "chuleta de cerdo",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Jamón de pavo ",
+                "cantidad" : "2 piezas"
+            },
+            {
+                "nombre" : "Carne molida",
+                "cantidad" : "30 gramos"
+            },
+            {
+                "nombre" : "Pavo",
+                "cantidad" : "45 gramos"
+            },
+            {
+                "nombre" : "Pechuga de pollo",
+                "cantidad" : "35 gramos"
+            },
+            {
+                "nombre" : "Pescado blanco",
+                "cantidad" : "75 gramos"
+            },
+            {
+                "nombre" : "Queso fresco",
+                "cantidad" : "40 gramos"
+            },
+            {
+                "nombre" : "Queso panela",
+                "cantidad" : "40 gramos"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Frutas",
+        "raciones" : [
+            {
+                "nombre" : "Arándano",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Blueberries",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Caña",
+                "cantidad" : "250 gramos"
+            },
+            {
+                "nombre" : "Cereza",
+                "cantidad" : "20 piezas"
+            },
+            {
+                "nombre" : "Ciruela negra",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Durazno",
+                "cantidad" : "2 piezas"
+            },
+            {
+                "nombre" : "Frambueza",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Fresa entera",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Fruta picada",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Guayaba",
+                "cantidad" : "3 piezas"
+            },
+            {
+                "nombre" : "Higo",
+                "cantidad" : "2 piezas"
+            },
+            {
+                "nombre" : "Kiwi",
+                "cantidad" : "1 1/2 piezas"
+            },
+            {
+                "nombre" : "Mandarina",
+                "cantidad" : "2 piezas"
+            },
+            {
+                "nombre" : "Mango ataulfo",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Mango manila",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Mango petacón",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Manzana",
+                "cantidad" : "1 pieza"
+            },
+            {
+                "nombre" : "Melón",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Moras",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Naranja",
+                "cantidad" : "2 piezas"
+            },
+            {
+                "nombre" : "Papaya",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Pasas",
+                "cantidad" : "10 piezas"
+            },
+            {
+                "nombre" : "Pera",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Piña",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Plátano",
+                "cantidad" : "1/2 pieza"
+            },
+            {
+                "nombre" : "Sandia",
+                "cantidad" : "3/4 taza"
+            },
+            {
+                "nombre" : "Uvas",
+                "cantidad" : "1 taza"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Leguminosas",
+        "raciones" : [
+            {
+                "nombre" : "Alubia germinada",
+                "cantidad" : "1 taza"
+            },
+            {
+                "nombre" : "Chícharo germinado",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Frijol germinado",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Frijol molido",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Frijol refrito",
+                "cantidad" : "1/3 taza"
+            },
+            {
+                "nombre" : "Garbanzo",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Habas",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Lentejas",
+                "cantidad" : "1/2 taza"
+            },
+            {
+                "nombre" : "Soya",
+                "cantidad" : "1/3 taza"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "Aceites y grasas",
+        "raciones" : [
+            {
+                "nombre" : "Aceite",
+                "cantidad" : "1 cucharadita"
+            },
+            {
+                "nombre" : "Aguacate",
+                "cantidad" : "1/3 pieza"
+            },
+            {
+                "nombre" : "Coco",
+                "cantidad" : "8 gramos"
+            },
+            {
+                "nombre" : "Coco rallado",
+                "cantidad" : "1 1/2 cucharadita"
+            },
+            {
+                "nombre" : "Crema",
+                "cantidad" : "1 cucharada"
+            },
+            {
+                "nombre" : "Crema ácida",
+                "cantidad" : "2 cucharadas"
+            },
+            {
+                "nombre" : "Vinagreta",
+                "cantidad" : "1/2 cucharada"
+            },
+            {
+                "nombre" : "Ajonjolí",
+                "cantidad" : "4 cucharaditas"
+            },
+            {
+                "nombre" : "Almendras",
+                "cantidad" : "10 piezas"
+            },
+            {
+                "nombre" : "Avellanas",
+                "cantidad" : "1/2 cucharada"
+            },
+            {
+                "nombre" : "Cacahuates naturales",
+                "cantidad" : "14 piezas"
+            },
+            {
+                "nombre" : "Chía",
+                "cantidad" : "7 cucharadas"
+            },
+            {
+                "nombre" : "Jamón serrano",
+                "cantidad" : "15 gramos"
+            },
+            {
+                "nombre" : "Crema de cacahuate",
+                "cantidad" : "2 cucharaditas"
+            },
+            {
+                "nombre" : "Nuez",
+                "cantidad" : "3 piezas"
+            },
+            {
+                "nombre" : "Nuez de la india",
+                "cantidad" : "12 gramos"
+            },
+            {
+                "nombre" : "Pepitas",
+                "cantidad" : "60 gramos"
+            },
+            {
+                "nombre" : "Pistaches",
+                "cantidad" : "18 piezas"
+            },
+            {
+                "nombre" : "Semilla de calabaza",
+                "cantidad" : "1 1/2 cucharada"
+            },
+            {
+                "nombre" : "Semilla de girasol",
+                "cantidad" : "4 cucharaditas"
+            }
+        ]
+    },
+    {
+        "nombreTabla" : "NO PERMITIDOS",
+        "raciones" : [
+            {
+                "nombre" : "Sesos",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Visceras",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Grasa visible en carne",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Lácteos enteros",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Postres con leche entera o grasa vegetal",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Piel de pollo",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Quesos grasosos",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Manteca",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Mantequilla",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Crema",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Mayonesa",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Chorizo",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Tocino",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Chicharrón",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Jugos naturales de fruta o industriales",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Agua de frutas",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Licuados",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Bebidas energizantes",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Refrescos",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Bebidas azucaradas y deportivas",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Azúcar de mesa o miel",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Cajeta",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Mermelada",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Catsup",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Helados con azúcar",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Pan dulce, Galletas, Pasteles",
+                "cantidad" : "ninguna"
+            },
+            {
+                "nombre" : "Alcohol",
+                "cantidad" : "ninguna"
+            }
+        ]
+    }
+]
