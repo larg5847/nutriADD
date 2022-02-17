@@ -14,7 +14,7 @@ import { TablaAlimentosDiabetesComponent } from 'src/app/common/diabetes-info/ta
 
 //seccion dislipidemia
 import { DislipidemiaInfoComponent } from './common/dislipidemia-info/dislipidemia-info.component';
-import { DislipidemiaMenusSelectComponent } from './common/dislipidemia-info/dislipidemia-menus-select/dislipidemia-menus-select/dislipidemia-menus-select.component';
+//import { DislipidemiaMenusSelectComponent } from './common/dislipidemia-info/dislipidemia-menus-select/dislipidemia-menus-select/dislipidemia-menus-select.component';
 import { TablaAlimentosDislipidemiaComponent } from './common/dislipidemia-info/tabla-alimentos-dislipidemia/tabla-alimentos-dislipidemia.component';
 
 
@@ -53,7 +53,7 @@ const routes: Routes = [
   {path: 'tablasDeEquivalentesDiabetes', component: TablaAlimentosDiabetesComponent},
 
   {path: 'dislipidemia', component: DislipidemiaInfoComponent},
-  {path: 'menusDislipidemia', component: DislipidemiaMenusSelectComponent},
+  //{path: 'menusDislipidemia', component: DislipidemiaMenusSelectComponent},
   {path: 'tablasDeEquivalentesDislipidemia', component: TablaAlimentosDislipidemiaComponent},
 
   {path: 'hipertension', component: HipertensionInfoComponent},

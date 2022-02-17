@@ -16,7 +16,7 @@ import { DespliegueDietaComponent } from './common/patologias/despliegue-dieta/d
 import { TablaDeAlimentosComponent } from './common/patologias/tabla-de-alimentos/tabla-de-alimentos.component';
 import { DislipidemiaInfoComponent } from './common/dislipidemia-info/dislipidemia-info.component';
 import { TablaAlimentosDislipidemiaComponent } from './common/dislipidemia-info/tabla-alimentos-dislipidemia/tabla-alimentos-dislipidemia.component';
-import { DislipidemiaMenusSelectComponent } from './common/dislipidemia-info/dislipidemia-menus-select/dislipidemia-menus-select/dislipidemia-menus-select.component';
+//import { DislipidemiaMenusSelectComponent } from './common/dislipidemia-info/dislipidemia-menus-select/dislipidemia-menus-select/dislipidemia-menus-select.component';
 import { HipertensionMenusSelectComponent } from './common/hipertension-info/hipertension-menus-select/hipertension-menus-select.component';
 import { TablaAlimentosHipertensionComponent } from './common/hipertension-info/tabla-alimentos-hipertension/tabla-alimentos-hipertension.component';
 import { HipertensionInfoComponent } from './common/hipertension-info/hipertension-info.component';
@@ -32,6 +32,7 @@ import { RenalInfoComponent } from './common/renal-info/renal-info.component';
 import { PrenatalInfoComponent } from './common/prenatal-info/prenatal-info.component';
 import { PrenatalMenuSelectComponent } from './common/prenatal-info/prenatal-menu-select/prenatal-menu-select.component';
 import { TablaAlimentosPrenatalComponent } from './common/prenatal-info/tabla-alimentos-prenatal/tabla-alimentos-prenatal.component';
+import { DislipidemiaMSelComponent } from './common/dislipidemia-info/dislipidemia-m-sel/dislipidemia-m-sel.component';
 
 
 @NgModule({
@@ -50,7 +51,6 @@ import { TablaAlimentosPrenatalComponent } from './common/prenatal-info/tabla-al
     TablaDeAlimentosComponent,
     DislipidemiaInfoComponent,
     TablaAlimentosDislipidemiaComponent,
-    DislipidemiaMenusSelectComponent,
     HipertensionMenusSelectComponent,
     TablaAlimentosHipertensionComponent,
     HipertensionInfoComponent,
@@ -65,7 +65,8 @@ import { TablaAlimentosPrenatalComponent } from './common/prenatal-info/tabla-al
     RenalInfoComponent,
     PrenatalInfoComponent,
     PrenatalMenuSelectComponent,
-    TablaAlimentosPrenatalComponent
+    TablaAlimentosPrenatalComponent,
+    DislipidemiaMSelComponent
   ],
   imports: [
     BrowserModule,
