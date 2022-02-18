@@ -1,0 +1,36 @@
+.desayuno
+{
+    background-color: #2A9C72;
+}
+
+.comida
+{
+    background-color: #154F3A;
+}
+
+.cena
+{
+    background-color: #0E3627;
+}
+
+.colacion
+{
+    background-color: #195C43;
+}
+
+.title-principal
+{
+    color: beige;
+}
+
+.container
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.col-md-4
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

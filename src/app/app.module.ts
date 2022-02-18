@@ -33,6 +33,45 @@ import { PrenatalInfoComponent } from './common/prenatal-info/prenatal-info.comp
 import { PrenatalMenuSelectComponent } from './common/prenatal-info/prenatal-menu-select/prenatal-menu-select.component';
 import { TablaAlimentosPrenatalComponent } from './common/prenatal-info/tabla-alimentos-prenatal/tabla-alimentos-prenatal.component';
 import { DislipidemiaMSelComponent } from './common/dislipidemia-info/dislipidemia-m-sel/dislipidemia-m-sel.component';
+import { D1300Component } from './common/diabetes-info/dietas/d1300/d1300.component';
+import { D1400Component } from './common/diabetes-info/dietas/d1400/d1400.component';
+import { D1500Component } from './common/diabetes-info/dietas/d1500/d1500.component';
+import { D1600Component } from './common/diabetes-info/dietas/d1600/d1600.component';
+import { D1700Component } from './common/diabetes-info/dietas/d1700/d1700.component';
+import { D1800Component } from './common/diabetes-info/dietas/d1800/d1800.component';
+import { D2000Component } from './common/diabetes-info/dietas/d2000/d2000.component';
+import { Dp2000Component } from './common/dislipidemia-info/dietas/dp2000/dp2000.component';
+import { Dp1200Component } from './common/dislipidemia-info/dietas/dp1200/dp1200.component';
+import { Dp1300Component } from './common/dislipidemia-info/dietas/dp1300/dp1300.component';
+import { Dp1400Component } from './common/dislipidemia-info/dietas/dp1400/dp1400.component';
+import { Dp1500Component } from './common/dislipidemia-info/dietas/dp1500/dp1500.component';
+import { Dp1600Component } from './common/dislipidemia-info/dietas/dp1600/dp1600.component';
+import { Dp1700Component } from './common/dislipidemia-info/dietas/dp1700/dp1700.component';
+import { Dp1800Component } from './common/dislipidemia-info/dietas/dp1800/dp1800.component';
+import { H1200Component } from './common/hipertension-info/dietas/h1200/h1200.component';
+import { H1300Component } from './common/hipertension-info/dietas/h1300/h1300.component';
+import { H1400Component } from './common/hipertension-info/dietas/h1400/h1400.component';
+import { H1500Component } from './common/hipertension-info/dietas/h1500/h1500.component';
+import { H1600Component } from './common/hipertension-info/dietas/h1600/h1600.component';
+import { H1700Component } from './common/hipertension-info/dietas/h1700/h1700.component';
+import { H1800Component } from './common/hipertension-info/dietas/h1800/h1800.component';
+import { H2000Component } from './common/hipertension-info/dietas/h2000/h2000.component';
+import { O1200Component } from './common/obesidad-info/dietas/o1200/o1200.component';
+import { O1300Component } from './common/obesidad-info/dietas/o1300/o1300.component';
+import { O1400Component } from './common/obesidad-info/dietas/o1400/o1400.component';
+import { O1500Component } from './common/obesidad-info/dietas/o1500/o1500.component';
+import { O1600Component } from './common/obesidad-info/dietas/o1600/o1600.component';
+import { O1700Component } from './common/obesidad-info/dietas/o1700/o1700.component';
+import { O1800Component } from './common/obesidad-info/dietas/o1800/o1800.component';
+import { O2000Component } from './common/obesidad-info/dietas/o2000/o2000.component';
+import { Pn1400Component } from './common/prenatal-info/dietas/pn1400/pn1400.component';
+import { Pn1500Component } from './common/prenatal-info/dietas/pn1500/pn1500.component';
+import { Pn1600Component } from './common/prenatal-info/dietas/pn1600/pn1600.component';
+import { Pn1700Component } from './common/prenatal-info/dietas/pn1700/pn1700.component';
+import { Pn1800Component } from './common/prenatal-info/dietas/pn1800/pn1800.component';
+import { Pn2000Component } from './common/prenatal-info/dietas/pn2000/pn2000.component';
+import { Pn2100Component } from './common/prenatal-info/dietas/pn2100/pn2100.component';
+import { Pn2200Component } from './common/prenatal-info/dietas/pn2200/pn2200.component';
 
 
 @NgModule({
@@ -66,7 +105,47 @@ import { DislipidemiaMSelComponent } from './common/dislipidemia-info/dislipidem
     PrenatalInfoComponent,
     PrenatalMenuSelectComponent,
     TablaAlimentosPrenatalComponent,
-    DislipidemiaMSelComponent
+    DislipidemiaMSelComponent,
+    D1300Component,
+    D1400Component,
+    D1500Component,
+    D1600Component,
+    D1700Component,
+    D1800Component,
+    D2000Component,
+    Dp2000Component,
+    Dp1200Component,
+    Dp1300Component,
+    Dp1400Component,
+    Dp1500Component,
+    Dp1600Component,
+    Dp1700Component,
+    Dp1800Component,
+    H1200Component,
+    H1300Component,
+    H1400Component,
+    H1500Component,
+    H1600Component,
+    H1700Component,
+    H1800Component,
+    H2000Component,
+    O1200Component,
+    O1300Component,
+    O1400Component,
+    O1500Component,
+    O1600Component,
+    O1700Component,
+    O1800Component,
+    O2000Component,
+    Pn1400Component,
+    Pn1500Component,
+    Pn1600Component,
+    Pn1700Component,
+    Pn1800Component,
+    Pn2000Component,
+    Pn2100Component,
+    Pn2200Component,
+    
   ],
   imports: [
     BrowserModule,

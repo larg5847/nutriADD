@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { Component, NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 
@@ -14,7 +14,7 @@ import { TablaAlimentosDiabetesComponent } from 'src/app/common/diabetes-info/ta
 
 //seccion dislipidemia
 import { DislipidemiaInfoComponent } from './common/dislipidemia-info/dislipidemia-info.component';
-//import { DislipidemiaMenusSelectComponent } from './common/dislipidemia-info/dislipidemia-menus-select/dislipidemia-menus-select/dislipidemia-menus-select.component';
+import { DislipidemiaMSelComponent } from './common/dislipidemia-info/dislipidemia-m-sel/dislipidemia-m-sel.component';
 import { TablaAlimentosDislipidemiaComponent } from './common/dislipidemia-info/tabla-alimentos-dislipidemia/tabla-alimentos-dislipidemia.component';
 
 
@@ -27,6 +27,14 @@ import { TablaAlimentosHipertensionComponent } from './common/hipertension-info/
 //seccion obesidad
 import { ObesidadInfoComponent } from './common/obesidad-info/obesidad-info.component';
 import { ObesidadMenusSelectComponent } from './common/obesidad-info/obesidad-menus-select/obesidad-menus-select.component';
+import { O1200Component } from './common/obesidad-info/dietas/o1200/o1200.component';
+import { O1300Component } from './common/obesidad-info/dietas/o1300/o1300.component';
+import { O1400Component } from './common/obesidad-info/dietas/o1400/o1400.component';
+import { O1500Component } from './common/obesidad-info/dietas/o1500/o1500.component';
+import { O1600Component } from './common/obesidad-info/dietas/o1600/o1600.component';
+import { O1700Component } from './common/obesidad-info/dietas/o1700/o1700.component';
+import { O1800Component } from './common/obesidad-info/dietas/o1800/o1800.component';
+import { O2000Component } from './common/obesidad-info/dietas/o2000/o2000.component';
 import { TablasAlimentosObesidadComponent } from './common/obesidad-info/tablas-alimentos-obesidad/tablas-alimentos-obesidad.component';
 
 
@@ -53,7 +61,7 @@ const routes: Routes = [
   {path: 'tablasDeEquivalentesDiabetes', component: TablaAlimentosDiabetesComponent},
 
   {path: 'dislipidemia', component: DislipidemiaInfoComponent},
-  //{path: 'menusDislipidemia', component: DislipidemiaMenusSelectComponent},
+  {path: 'menusDislipidemia', component: DislipidemiaMSelComponent},
   {path: 'tablasDeEquivalentesDislipidemia', component: TablaAlimentosDislipidemiaComponent},
 
   {path: 'hipertension', component: HipertensionInfoComponent},
@@ -62,6 +70,14 @@ const routes: Routes = [
 
   {path: 'obesidad', component: ObesidadInfoComponent},
   {path: 'menusObesidad', component: ObesidadMenusSelectComponent},
+  {path: 'menu1200Obesidad', component: O1200Component},
+  {path: 'menu1300Obesidad', component: O1300Component},
+  {path: 'menu1400Obesidad', component: O1400Component},
+  {path: 'menu1500Obesidad', component: O1500Component},
+  {path: 'menu1600Obesidad', component: O1600Component},
+  {path: 'menu1700Obesidad', component: O1700Component},
+  {path: 'menu1800Obesidad', component: O1800Component},
+  {path: 'menu2000Obesidad', component: O2000Component},
   {path: 'tablasDeEquivalentesObesidad', component: TablasAlimentosObesidadComponent},
 
   {path: 'prenatal', component: PrenatalInfoComponent},
