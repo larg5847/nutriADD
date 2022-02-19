@@ -1,5 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
+import  tablaraciones  from './tablas.json';
+import { Tabla } from './ItablasDeRacones';
+
+
 @Component({
   selector: 'app-tablas-alimentos-lactante',
   templateUrl: './tablas-alimentos-lactante.component.html',
@@ -7,7 +11,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TablasAlimentosLactanteComponent implements OnInit {
 
-  constructor() { }
+  comida: Tabla[] = tablaraciones;
+
+  constructor() {
+    console.log(this.comida)
+   }
 
   ngOnInit(): void {
   }

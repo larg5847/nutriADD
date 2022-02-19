@@ -1,1 +1,24 @@
-<p>tablas-alimentos-lactante works!</p>
+<div class="container">
+    <div class="card" *ngFor="let item of comida">
+        <h2 class="card-title"> {{item.nombreTabla}}</h2>
+        <div class="card">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Nombre</th>
+                        <th scope="col">Cantidad</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr *ngFor="let item2 of item.raciones" >
+                        <th>{{item2.nombre}}</th>
+                        <th>{{item2.cantidad}}</th>
+                    </tr>
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+
+</div>
