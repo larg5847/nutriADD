@@ -1,0 +1,65 @@
+.card
+{
+    background-color: #f8f9fa;
+}
+
+
+.table1
+{
+    background-color: #dbfbcc;
+}
+.table1 thead{
+    background-color: #e0e88c;}
+
+
+.table2
+{
+    background-color: #fdf1c9;
+}
+.table2 thead{
+    background-color: #f9f08d;
+}
+
+
+.table3
+{
+    background-color: #ccf8fb;
+}
+.table3 thead{
+    background-color: #a9dad1;
+}
+
+
+.table4
+{
+    background-color: #d9e6f7;
+}
+.table4 thead{
+    background-color: #a6c7ea
+}
+
+
+.table5
+{
+    background-color: #e2dbfc;
+}
+.table5 thead{
+    background-color: #cdb3d5;
+}
+
+
+.table6
+{
+    background-color: #f2d9ef;
+}
+.table6 thead{
+    background-color: #f8b2bc;
+}
+
+.table7
+{
+    background-color: #fcdddb;
+}
+.table7 thead{
+    background-color: #f59598;
+}

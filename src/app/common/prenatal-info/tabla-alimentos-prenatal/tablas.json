@@ -1,6 +1,7 @@
 [
     {
         "nombreTabla" : "Verduras",
+        "colorTabla": "#224466",
         "raciones" : [
             {
                 "nombre" : "Acelga",
