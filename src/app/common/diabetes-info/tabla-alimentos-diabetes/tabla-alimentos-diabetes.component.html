@@ -1,53 +1,55 @@
 <div class="container">
     <h1>Raciones para Diabetes</h1>
     
-    <div class="row">
-
-    <div class="card col-lg-4 col-sm-6" >
-        <h2 class="card-title"> {{comida[0].nombreTabla}}</h2>
-        <div class="card-body">
-            <table class="table table-striped table-bordered table1"> 
-                <thead>
-                    <tr>
-                        <th scope="col">Nombre</th>
-                        <th scope="col">Cantidad</th>
-                    </tr>
-                </thead>
-
-                <tbody>
-                    <tr *ngFor="let item2 of comida[0].raciones" >
-                        <th>{{item2.nombre}}</th>
-                        <th>{{item2.cantidad}}</th>
-                    </tr>
-                </tbody>
-
-            </table>
+    <div class="row g-3">
+        <div class="col-lg-4 col-sm-6">
+            <div class="card " >
+                <h2 class="card-title"> {{comida[0].nombreTabla}}</h2>
+                <div class="card-body">
+                    <table class="table table-striped table-bordered table1"> 
+                        <thead>
+                            <tr>
+                                <th scope="col">Nombre</th>
+                                <th scope="col">Cantidad</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let item2 of comida[0].raciones" >
+                                <th>{{item2.nombre}}</th>
+                                <th>{{item2.cantidad}}</th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         </div>
-    </div>
 
-    <div class="card col-lg-4 col-sm-6" >
-        <h2 class="card-title"> {{comida[1].nombreTabla}}</h2>
-        <div class="card-body">
-            <table class="table table-striped table-bordered table2"> 
-                <thead>
-                    <tr>
-                        <th scope="col">Nombre</th>
-                        <th scope="col">Cantidad</th>
-                    </tr>
-                </thead>
 
-                <tbody>
-                    <tr *ngFor="let item2 of comida[1].raciones" >
-                        <th>{{item2.nombre}}</th>
-                        <th>{{item2.cantidad}}</th>
-                    </tr>
-                </tbody>
-
-            </table>
+        <div class="col-lg-4 col-sm-6">
+            <div class="card" >
+                <h2 class="card-title"> {{comida[1].nombreTabla}}</h2>
+                <div class="card-body">
+                    <table class="table table-striped table-bordered table2"> 
+                        <thead>
+                            <tr>
+                                <th scope="col">Nombre</th>
+                                <th scope="col">Cantidad</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let item2 of comida[1].raciones" >
+                                <th>{{item2.nombre}}</th>
+                                <th>{{item2.cantidad}}</th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         </div>
-    </div>
 
-    <div class="card col-lg-4 col-sm-6" >
+
+    <div class="col-lg-4 col-sm-6">
+    <div class="card" >
         <h2 class="card-title"> {{comida[2].nombreTabla}}</h2>
         <div class="card-body">
             <table class="table table-striped table-bordered table3"> 
@@ -68,8 +70,11 @@
             </table>
         </div>
     </div>
+    </div>
 
-    <div class="card col-lg-4 col-sm-6" >
+
+    <div class="col-lg-4 col-sm-6">
+    <div class="card" >
         <h2 class="card-title"> {{comida[3].nombreTabla}}</h2>
         <div class="card-body">
             <table class="table table-striped table-bordered table4"> 
@@ -90,8 +95,11 @@
             </table>
         </div>
     </div>
+    </div>
 
-    <div class="card col-lg-4 col-sm-6" >
+
+    <div class="col-lg-4 col-sm-6">
+    <div class="card" >
         <h2 class="card-title"> {{comida[4].nombreTabla}}</h2>
         <div class="card-body">
             <table class="table table-striped table-bordered table5"> 
@@ -112,8 +120,11 @@
             </table>
         </div>
     </div>
+    </div>
 
-    <div class="card col-lg-4 col-sm-6" >
+
+    <div class="col-lg-4 col-sm-6">
+    <div class="card" >
         <h2 class="card-title"> {{comida[5].nombreTabla}}</h2>
         <div class="card-body">
             <table class="table table-striped table-bordered table6"> 
@@ -134,32 +145,33 @@
             </table>
         </div>
     </div>
+    </div>
 
-    <div class="card col-lg-4 col-sm-6" >
-        <h2 class="card-title"> {{comida[6].nombreTabla}}</h2>
-        <div class="card-body">
-            <table class="table table-striped table-bordered table7"> 
-                <thead>
-                    <tr>
-                        <th scope="col">Nombre</th>
-                        <th scope="col">Cantidad</th>
-                    </tr>
-                </thead>
 
-                <tbody>
-                    <tr *ngFor="let item2 of comida[6].raciones" >
-                        <th>{{item2.nombre}}</th>
-                        <th>{{item2.cantidad}}</th>
-                    </tr>
-                </tbody>
-
-            </table>
+    <!--div class="col-lg-4 col-sm-6">
+        <div class="card" >
+            <h2 class="card-title"> {{comida[6].nombreTabla}}</h2>
+                <div class="card-body">
+                    <table class="table table-striped table-bordered table7"> 
+                        <thead>
+                            <tr>
+                                <th scope="col">Nombre</th>
+                                <th scope="col">Cantidad</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let item2 of comida[6].raciones" >
+                                <th>{{item2.nombre}}</th>
+                                <th>{{item2.cantidad}}</th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         </div>
     </div>
 
-    </div>
-
-    <!--div class="card" *ngFor="let item of comida">
+    <div class="card" *ngFor="let item of comida">
         <h2 class="card-title"> {{item.nombreTabla}}</h2>
         <div>
             <table class="table table-striped table-bordered"> 

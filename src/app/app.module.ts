@@ -74,6 +74,14 @@ import { Pn2100Component } from './common/prenatal-info/dietas/pn2100/pn2100.com
 import { Pn2200Component } from './common/prenatal-info/dietas/pn2200/pn2200.component';
 
 
+import { TablaAlimnegativosDiabetesComponent } from './common/diabetes-info/tabla-alimnegativos-diabetes/tabla-alimnegativos-diabetes.component';
+import { TablaAlimnegativosDisliComponent } from './common/dislipidemia-info/tabla-alimnegativos-disli/tabla-alimnegativos-disli.component';
+import { TablaAlimnegativosHiperComponent } from './common/hipertension-info/tabla-alimnegativos-hiper/tabla-alimnegativos-hiper.component';
+import { TablaAlimnegativosObesidadComponent } from './common/obesidad-info/tabla-alimnegativos-obesidad/tabla-alimnegativos-obesidad.component';
+import { TablaAlimnegativosPrenatalComponent } from './common/prenatal-info/tabla-alimnegativos-prenatal/tabla-alimnegativos-prenatal.component';
+import { TablaAlimnegativosRenalComponent } from './common/renal-info/tabla-alimnegativos-renal/tabla-alimnegativos-renal.component';
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -145,6 +153,12 @@ import { Pn2200Component } from './common/prenatal-info/dietas/pn2200/pn2200.com
     Pn2000Component,
     Pn2100Component,
     Pn2200Component,
+    TablaAlimnegativosDiabetesComponent,
+    TablaAlimnegativosDisliComponent,
+    TablaAlimnegativosHiperComponent,
+    TablaAlimnegativosObesidadComponent,
+    TablaAlimnegativosPrenatalComponent,
+    TablaAlimnegativosRenalComponent,
     
   ],
   imports: [

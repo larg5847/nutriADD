@@ -1,0 +1,24 @@
+<h3>Alimentos NO PERMITIDOS para personas con Sobrepeso u Obesidad</h3>
+
+<div >
+    <div class="card" >
+        <p class="card-text">Por su elevado aporte de calorías se sugiere evitar estos alimentos además de que su consumo aumenta el riesgo a padecer diabetes, hipertencion, colesterol y triglicéridos elevados.</p>
+        <div class="card-body">
+            <table class="table table-striped table-bordered table1"> 
+                <thead>
+                    <tr>
+                        <th scope="col">Nombre</th>
+                        <th scope="col">Cantidad</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr *ngFor="let item2 of comida[0].raciones" >
+                        <th>{{item2.nombre}}</th>
+                        <th>{{item2.cantidad}}</th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

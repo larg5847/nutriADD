@@ -17,6 +17,7 @@ import { D1700Component } from './common/diabetes-info/dietas/d1700/d1700.compon
 import { D1800Component } from './common/diabetes-info/dietas/d1800/d1800.component';
 import { D2000Component } from './common/diabetes-info/dietas/d2000/d2000.component';
 import { TablaAlimentosDiabetesComponent } from 'src/app/common/diabetes-info/tabla-alimentos-diabetes/tabla-alimentos-diabetes.component';
+import { TablaAlimnegativosDiabetesComponent } from './common/diabetes-info/tabla-alimnegativos-diabetes/tabla-alimnegativos-diabetes.component';
 
 
 //seccion dislipidemia
@@ -31,7 +32,7 @@ import { Dp1700Component } from './common/dislipidemia-info/dietas/dp1700/dp1700
 import { Dp1800Component } from './common/dislipidemia-info/dietas/dp1800/dp1800.component';
 import { Dp2000Component } from './common/dislipidemia-info/dietas/dp2000/dp2000.component';
 import { TablaAlimentosDislipidemiaComponent } from './common/dislipidemia-info/tabla-alimentos-dislipidemia/tabla-alimentos-dislipidemia.component';
-
+import { TablaAlimnegativosDisliComponent } from './common/dislipidemia-info/tabla-alimnegativos-disli/tabla-alimnegativos-disli.component';
 
 //seccon hipertension
 import { HipertensionInfoComponent } from './common/hipertension-info/hipertension-info.component';
@@ -45,7 +46,7 @@ import { H1700Component } from './common/hipertension-info/dietas/h1700/h1700.co
 import { H1800Component } from './common/hipertension-info/dietas/h1800/h1800.component';
 import { H2000Component } from './common/hipertension-info/dietas/h2000/h2000.component';
 import { TablaAlimentosHipertensionComponent } from './common/hipertension-info/tabla-alimentos-hipertension/tabla-alimentos-hipertension.component';
-
+import { TablaAlimnegativosHiperComponent } from './common/hipertension-info/tabla-alimnegativos-hiper/tabla-alimnegativos-hiper.component';
 
 //seccion obesidad
 import { ObesidadInfoComponent } from './common/obesidad-info/obesidad-info.component';
@@ -59,7 +60,7 @@ import { O1700Component } from './common/obesidad-info/dietas/o1700/o1700.compon
 import { O1800Component } from './common/obesidad-info/dietas/o1800/o1800.component';
 import { O2000Component } from './common/obesidad-info/dietas/o2000/o2000.component';
 import { TablasAlimentosObesidadComponent } from './common/obesidad-info/tablas-alimentos-obesidad/tablas-alimentos-obesidad.component';
-
+import { TablaAlimnegativosObesidadComponent } from './common/obesidad-info/tabla-alimnegativos-obesidad/tabla-alimnegativos-obesidad.component';
 
 //seccion prenatal
 import { PrenatalInfoComponent } from './common/prenatal-info/prenatal-info.component';
@@ -73,13 +74,13 @@ import { Pn2000Component } from './common/prenatal-info/dietas/pn2000/pn2000.com
 import { Pn2100Component } from './common/prenatal-info/dietas/pn2100/pn2100.component';
 import { Pn2200Component } from './common/prenatal-info/dietas/pn2200/pn2200.component';
 import { TablaAlimentosPrenatalComponent } from './common/prenatal-info/tabla-alimentos-prenatal/tabla-alimentos-prenatal.component';
-
+import { TablaAlimnegativosPrenatalComponent } from './common/prenatal-info/tabla-alimnegativos-prenatal/tabla-alimnegativos-prenatal.component';
 
 //seccion renal
 import { RenalInfoComponent } from './common/renal-info/renal-info.component';
 import { RenalMenusSelectComponent } from './common/renal-info/renal-menus-select/renal-menus-select.component';
 import { TablaAlimentosRenalComponent } from './common/renal-info/tabla-alimentos-renal/tabla-alimentos-renal.component';
-
+import { TablaAlimnegativosRenalComponent } from './common/renal-info/tabla-alimnegativos-renal/tabla-alimnegativos-renal.component';
 
 
 const routes: Routes = [
@@ -97,6 +98,7 @@ const routes: Routes = [
   {path: 'menu1800Diabetes', component: D1800Component},
   {path: 'menu2000Diabetes', component: D2000Component},
   {path: 'tablasDeEquivalentesDiabetes', component: TablaAlimentosDiabetesComponent},
+  {path: 'tablaAlimNegativosDiabetes', component: TablaAlimnegativosDiabetesComponent},
 
   {path: 'dislipidemia', component: DislipidemiaInfoComponent},
   {path: 'menusDislipidemia', component: DislipidemiaMSelComponent},
@@ -109,6 +111,7 @@ const routes: Routes = [
   {path: 'menu1800Dislipidemia', component: Dp1800Component},
   {path: 'menu2000Dislipidemia', component: Dp2000Component},
   {path: 'tablasDeEquivalentesDislipidemia', component: TablaAlimentosDislipidemiaComponent},
+  {path: 'tablaAlimNegativosDislipidemia', component: TablaAlimnegativosDisliComponent},
 
   {path: 'hipertension', component: HipertensionInfoComponent},
   {path: 'menusHipertension', component: HipertensionMenusSelectComponent},
@@ -121,6 +124,7 @@ const routes: Routes = [
   {path: 'menu1800Hipertension', component: H1800Component},
   {path: 'menu2000Hipertension', component: H2000Component},
   {path: 'tablasDeEquivalentesHipertension', component: TablaAlimentosHipertensionComponent},
+  {path: 'tablaAlimNegativosHipertension', component: TablaAlimnegativosHiperComponent},
 
   {path: 'obesidad', component: ObesidadInfoComponent},
   {path: 'menusObesidad', component: ObesidadMenusSelectComponent},
@@ -133,6 +137,7 @@ const routes: Routes = [
   {path: 'menu1800Obesidad', component: O1800Component},
   {path: 'menu2000Obesidad', component: O2000Component},
   {path: 'tablasDeEquivalentesObesidad', component: TablasAlimentosObesidadComponent},
+  {path: 'tablaAlimNegativosObesidad', component: TablaAlimnegativosObesidadComponent},
 
   {path: 'prenatal', component: PrenatalInfoComponent},
   {path: 'menusPrenatal', component: PrenatalMenuSelectComponent},
@@ -145,10 +150,12 @@ const routes: Routes = [
   {path: 'menu2100Prenatal', component: Pn2100Component},
   {path: 'menu2200Prenatal', component: Pn2200Component},
   {path: 'tablasDeEquivalentesPrenatal', component: TablaAlimentosPrenatalComponent},
+  {path: 'tablaAlimNegativosPrenatal', component: TablaAlimnegativosPrenatalComponent},
 
   {path: 'renal', component: RenalInfoComponent},
   {path: 'menusRenal', component: RenalMenusSelectComponent},
-  {path: 'tablasDeEquivalentesRenal', component: TablaAlimentosRenalComponent}
+  {path: 'tablasDeEquivalentesRenal', component: TablaAlimentosRenalComponent},
+  {path: 'tablaAlimNegativosRenal', component: TablaAlimnegativosRenalComponent}
 ];
 
 

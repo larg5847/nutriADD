@@ -1,0 +1,27 @@
+<h3>Alimentos NO PERMITIDOS para Embarazadas</h3>
+
+<div >
+    <div class="card" >
+        <p class="card-text">
+            Consumir alimentos altos en azúcares eleva el riesgo de complicaciones durante el proceso y en el momento del parto: bebés de mayor tamaño, lesiones en el canal del parto y más posibilidades de alumbramiento por cesárea, por ello se recomienda evitar el consumo de los siguientes Un consumo excesivo de azúcares eleva la glucosa en sangre, puede dañar los vasos sanguíneos de los riñones y esto llevar a mayores complicaciones por lo que se recomienda evitar su consumo.
+Si bien la ingesta de grasas es importante, el consumo de grasa saturada se debe reducir al máximo para evitar hipercolesterolemia y otras complicaciones.
+        </p>
+        <div class="card-body">
+            <table class="table table-striped table-bordered table1"> 
+                <thead>
+                    <tr>
+                        <th scope="col">Nombre</th>
+                        <th scope="col">Cantidad</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr *ngFor="let item2 of comida[0].raciones" >
+                        <th>{{item2.nombre}}</th>
+                        <th>{{item2.cantidad}}</th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

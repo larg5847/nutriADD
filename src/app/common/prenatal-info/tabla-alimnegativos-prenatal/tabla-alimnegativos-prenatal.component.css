@@ -1,0 +1,29 @@
+.table1
+{
+    background-color: #fcdddb;
+}
+.table1 thead{
+    background-color: #f59598;
+}
+
+.card
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h3
+{
+    margin: 20px;
+}
+
+.card-text
+{
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+p{
+    text-align: justify;
+    padding: 0px 10px 0px 10px;
+}

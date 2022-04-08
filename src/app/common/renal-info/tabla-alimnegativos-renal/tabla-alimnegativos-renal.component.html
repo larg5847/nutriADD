@@ -1,0 +1,24 @@
+<h3>Alimentos NO PERMITIDOS para Embarazadas</h3>
+
+<div >
+    <div class="card" >
+        <p class="card-text">Su alto contenido de sodio eleva puede elevar las cifras de presión arterial.</p>
+        <div class="card-body">
+            <table class="table table-striped table-bordered table1"> 
+                <thead>
+                    <tr>
+                        <th scope="col">Nombre</th>
+                        <th scope="col">Cantidad</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr *ngFor="let item2 of comida[0].raciones" >
+                        <th>{{item2.nombre}}</th>
+                        <th>{{item2.cantidad}}</th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
