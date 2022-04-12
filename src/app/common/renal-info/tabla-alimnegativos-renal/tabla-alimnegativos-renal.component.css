@@ -19,7 +19,11 @@ h3
 
 .card-text
 {
-    text-align: center;
     padding-top: 20px;
     font-weight: bold;
+}
+
+p{
+    text-align: justify;
+    padding: 0px 10px 0px 10px;
 }
